@@ -1,0 +1,14 @@
+AHRS.c:30:6:updateIMU	80	static
+AHRS.c:131:7:invSqrt	32	static
+AHRS.c:143:6:computeAngles	8	static
+AHRS.c:152:32:quaternionConjugate	16	static
+AHRS.c:162:32:quaternionMultiply	40	static
+AHRS.c:176:6:GetAccNEU	40	static
+AHRS.c:196:6:PredictionZ	8	static
+AHRS.c:207:7:pressureToAltitude	16	static
+AHRS.c:212:6:CorrectionBaroZ	24	static
+AHRS.c:249:6:getZ	32	static
+AHRS.c:319:7:DelayComp	24	static
+AHRS.c:332:7:float_overflow	16	static
+AHRS.c:340:6:update_pos_z	8	static
+AHRS.c:348:6:InitKalmanZ	16	static

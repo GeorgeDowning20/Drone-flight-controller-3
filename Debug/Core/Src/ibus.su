@@ -1,0 +1,2 @@
+ibus.c:11:6:configure_ibus	16	static
+ibus.c:28:6:ibus_callback	8	static

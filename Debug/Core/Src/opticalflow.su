@@ -1,0 +1,2 @@
+opticalflow.c:10:6:enable_opticalflow	16	static
+opticalflow.c:17:6:optical_flow_callback	16	static

@@ -1,0 +1,14 @@
+float db,b1;
+float alt_est;
+float alt;
+float alt1;
+float d_alt;
+float alt_err;
+float alt_setpoint;
+float alt_Kp;
+float l_factor;
+float d_alt_Kp;
+float baro_alt1;
+float delayed[100];
+float delayCompensatedSample;
+uint8_t r;

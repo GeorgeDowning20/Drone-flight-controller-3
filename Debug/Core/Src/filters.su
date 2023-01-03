@@ -1,0 +1,5 @@
+filters.c:6:6:init_biquad_filter	48	static
+filters.c:33:7:biquadFilterApply	24	static
+filters.c:42:6:init_pt1Filter	32	static
+filters.c:49:8:pt1FilterApply	16	static
+filters.c:54:8:pt1Filter	24	static

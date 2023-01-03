@@ -1,0 +1,7 @@
+imu.c:22:6:calabrate_acc_gyr	72	static
+imu.c:70:6:ReadFlashImuOffsets	16	static
+imu.c:80:6:WriteFlashImuOffsets	16	static
+imu.c:102:6:configure_imu	24	static
+imu.c:161:6:IMU_write_bits	24	static
+imu.c:170:6:IMU_read	24	static
+imu.c:185:6:IMU_read_raw	24	static
